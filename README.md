@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jfajula&theme=gotham&short_numbers=true)](https://git.io/streak-stats)
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfajula&theme=default) 
+
 >[!CAUTION]
 >Lean Claymore
 >
