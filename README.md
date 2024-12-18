@@ -1,6 +1,7 @@
 ## Hola buenas tardes 👋
 
-Estudiante de ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+Estudiante de <p align="center"> <img src="http://some_place.com/image.png" /> </p>
+ ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=insertar+texto+de+prueba)](https://git.io/typing-svg)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfajula&theme=default) 
